@@ -1,50 +1,74 @@
 \section{L0 regularization}
 
-\begin{frame}{L0 regularization: definition}
-\textbf{L0 “norm”} counts non-zero coefficients:
+\begin{frame}{$L_{0}$ regularization: definition}
+\textbf{$L_{0}$ regularization} adds a penalty equal to the count of non‑zero weights (vector's sparsity) in the model:
 \[
-\norm{\bbeta}_0 = \#\{j : \beta_j \neq 0\}.
+\norm{\omega}_0 = card(\{i \;/\; \omega_i \neq 0\}).
 \]
 
 \textbf{Penalized objective:}
+
 \[
-\min_{\bbeta \in \R^p} \; \mathcal{L}(\bbeta) + \lambda \, \norm{\bbeta}_0
+\min_{\omega \in \R^p} \; \mathcal{L}(\omega) + \lambda \, \norm{\omega}_0
 \]
-where $\mathcal{L}(\bbeta)$ is the loss (e.g., MSE, logistic loss) and $\lambda>0$ controls sparsity.
+\begin{itemize}
+  \item p: the number of weights
+  \item $\mathcal{L}(\omega)$: loss function
+  \item $\lambda>0$ regularization strength
+\end{itemize}
 
 \vspace{0.5em}
-\alert{Interpretation:} “fit the data while using as few features as possible.”
+\alert{Interpretation:} \textbf{“minimize the loss function while using as few features as possible.”}
 \end{frame}
 
-\begin{frame}{Intuition: best subset selection}
+\begin{frame}{Intuition: best weights subset selection}
 \begin{itemize}
-  \item L0 regularization is closely related to \textbf{best subset selection}:
-  \begin{itemize}
-    \item choose a subset $S \subset \{1,\dots,p\}$,
-    \item fit the model using only features in $S$,
-    \item pick the best subset size (via $\lambda$ or $k$).
-  \end{itemize}
+  \item $L_{0}$ is the most \textbf{direct and ideal} sparsity control.
   \item Often yields \textbf{very sparse} and \textbf{highly interpretable} models.
 \end{itemize}
 \end{frame}
 
-\begin{frame}{Why L0 is hard}
+
+
+\begin{frame}{$L_{0}$ regularization algorithm}
+  \begin{itemize}
+    \item choose an initial subset of weights : $best_S = S_{0}$\\
+    \item for each subset S of the p weights:
+  \begin{enumerate}
+    \item Fix weights outside S to zero
+    \item Optimize the weights in S to minimize the loss function
+    \item Compute the objective function $Obj(\omega_{S})$
+    \item if $Obj(\omega_{S}) \leq Obj(\omega_{best_S})$ : set $best_S$ to S
+  \end{enumerate}
+  \end{itemize}
+  
+    
+
+\end{frame}
+
+
+\begin{frame}{Why L0 is not Practical}
 \begin{itemize}
-  \item The objective is \textbf{non-convex} and \textbf{discontinuous}.
-  \item It implies a \textbf{combinatorial search} over feature subsets:
-  \[
-  \text{number of subsets} \approx 2^p.
-  \]
-  \item Practical consequence: exact optimization becomes infeasible when $p$ is large.
+  \item \textbf{Combinatorial problem in discrete space}: 
+  \begin{itemize}
+    \item for each weight, whether use it or prune it
+    \item NP-Hard
+    \item $2^{p}$ possiblities (far more than atoms in the universe for only 1million params)
+  \end{itemize}
+  \item \textbf{Non-differentiability}: Can't use Gradient based optimization (required by DL).
 \end{itemize}
 \end{frame}
 
-\begin{frame}{How people handle L0 in practice}
-Common strategies (choose depending on $p$ and compute budget):
-\begin{itemize}
-  \item \textbf{Greedy methods:} forward selection, Orthogonal Matching Pursuit (OMP).
-  \item \textbf{Relaxations:} replace L0 by L1 (convex surrogate).
-  \item \textbf{Mixed-Integer Optimization:} can solve exact/near-exact for smaller $p$.
-  \item \textbf{Smooth surrogates:} continuous approximations to the counting function.
-\end{itemize}
+\begin{frame}{Regularization strength}
+ \begin{columns}[c]
+    \column{0.5\textwidth}
+    \begin{center}
+        \includegraphics[width=\linewidth]{imgs/graph.png}
+    \end{center}
+
+    \column{0.5\textwidth}
+    \begin{center}
+        \includegraphics[width=\linewidth]{imgs/image.png}
+    \end{center}
+\end{columns}
 \end{frame}
