@@ -1,0 +1,50 @@
+\section{L0 regularization}
+
+\begin{frame}{L0 regularization: definition}
+\textbf{L0 “norm”} counts non-zero coefficients:
+\[
+\norm{\bbeta}_0 = \#\{j : \beta_j \neq 0\}.
+\]
+
+\textbf{Penalized objective:}
+\[
+\min_{\bbeta \in \R^p} \; \mathcal{L}(\bbeta) + \lambda \, \norm{\bbeta}_0
+\]
+where $\mathcal{L}(\bbeta)$ is the loss (e.g., MSE, logistic loss) and $\lambda>0$ controls sparsity.
+
+\vspace{0.5em}
+\alert{Interpretation:} “fit the data while using as few features as possible.”
+\end{frame}
+
+\begin{frame}{Intuition: best subset selection}
+\begin{itemize}
+  \item L0 regularization is closely related to \textbf{best subset selection}:
+  \begin{itemize}
+    \item choose a subset $S \subset \{1,\dots,p\}$,
+    \item fit the model using only features in $S$,
+    \item pick the best subset size (via $\lambda$ or $k$).
+  \end{itemize}
+  \item Often yields \textbf{very sparse} and \textbf{highly interpretable} models.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Why L0 is hard}
+\begin{itemize}
+  \item The objective is \textbf{non-convex} and \textbf{discontinuous}.
+  \item It implies a \textbf{combinatorial search} over feature subsets:
+  \[
+  \text{number of subsets} \approx 2^p.
+  \]
+  \item Practical consequence: exact optimization becomes infeasible when $p$ is large.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{How people handle L0 in practice}
+Common strategies (choose depending on $p$ and compute budget):
+\begin{itemize}
+  \item \textbf{Greedy methods:} forward selection, Orthogonal Matching Pursuit (OMP).
+  \item \textbf{Relaxations:} replace L0 by L1 (convex surrogate).
+  \item \textbf{Mixed-Integer Optimization:} can solve exact/near-exact for smaller $p$.
+  \item \textbf{Smooth surrogates:} continuous approximations to the counting function.
+\end{itemize}
+\end{frame}

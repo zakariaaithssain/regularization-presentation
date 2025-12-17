@@ -1,0 +1,41 @@
+\documentclass[aspectratio=169]{beamer}
+
+% ---------- Packages ----------
+\usepackage{amsmath, amsfonts, amssymb, bm}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, shapes, calc}
+
+% ---------- Theme ----------
+\usetheme{Madrid}
+\usecolortheme{default}
+
+% ---------- Macros ----------
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\bbeta}{\bm{\beta}}
+
+% ---------- Title info ----------
+\title[L0 \& L1/2 Regularization]{L0 and L1/2 Regularization\\Sparsity Beyond L1}
+\author{Team Name (A, B, C, D)}
+\institute{Machine Learning}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+\end{frame}
+
+\include{introduction}
+\include{L0}
+\include{L12}
+\include{conclusion}
+
+\end{document}
+

@@ -1,0 +1,42 @@
+\section{L1/2 regularization}
+
+\begin{frame}{L1/2 regularization: definition}
+L1/2 is an $L_p$ penalty with $p=\tfrac{1}{2}$ (non-convex):
+\[
+\sum_{j=1}^p |\beta_j|^{1/2}.
+\]
+
+\textbf{Penalized objective:}
+\[
+\min_{\bbeta \in \R^p} \; \mathcal{L}(\bbeta) + \lambda \sum_{j=1}^p |\beta_j|^{1/2}.
+\]
+
+\vspace{0.4em}
+\small Note: this is \textbf{not} Elastic Net (which is a mix of L1 and L2).
+\end{frame}
+
+\begin{frame}{Why L1/2 can be more sparse than L1}
+\begin{itemize}
+  \item For $p<1$, the penalty is \textbf{more aggressive near zero} than L1:
+  \begin{itemize}
+    \item small coefficients are pushed to exactly 0 more strongly,
+    \item often yields \textbf{stronger sparsity} than L1.
+  \end{itemize}
+  \item Intuition often cited: \textbf{less shrinkage bias} on large coefficients than L1 (depends on solver/settings).
+  \item Trade-off: \textbf{non-convex} objective $\Rightarrow$ optimization is harder.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Optimization intuition (high-level)}
+Typical solver families (no heavy math needed):
+\begin{itemize}
+  \item \textbf{Iterative reweighting:} solve a sequence of easier weighted problems that approximate L1/2.
+  \item \textbf{Thresholding / proximal-style updates:} non-linear shrinkage rules.
+\end{itemize}
+
+Practical notes:
+\begin{itemize}
+  \item initialization matters,
+  \item possible local minima (non-convex).
+\end{itemize}
+\end{frame}

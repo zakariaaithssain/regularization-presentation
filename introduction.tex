@@ -1,0 +1,64 @@
+\section{Motivation: Why regularize?}
+
+\begin{frame}{Why regularize? (Motivation)}
+\begin{itemize}
+  \item \textbf{Overfitting vs generalization:} training error decreases, test error may increase.
+  \item \textbf{High-dimensional ML:} many features, noisy / correlated inputs.
+  \item \textbf{Why we like sparsity:} interpretability, lower measurement cost, faster inference, robustness.
+\end{itemize}
+\vspace{0.5em}
+\alert{Goal today:} encourage models with \textbf{few non-zero coefficients}.
+\end{frame}
+
+\begin{frame}{Overfitting picture (intuition)}
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm]
+  % Axes
+  \draw[->] (0,0) -- (10,0) node[below right] {Model complexity};
+  \draw[->] (0,0) -- (0,5) node[left] {Error};
+
+  % Train curve (decreasing)
+  \draw[thick] plot[smooth] coordinates {(0.8,4.2) (2,3.2) (4,2.2) (6,1.6) (8,1.2) (9.5,1.05)};
+  \node[above] at (8.7,1.2) {Train};
+
+  % Test curve (U-shape)
+  \draw[thick,dashed] plot[smooth] coordinates {(0.8,4.0) (2,2.7) (4,1.7) (6,2.0) (8,3.0) (9.5,4.0)};
+  \node[above] at (9.0,4.0) {Test};
+
+  % Best point
+  \fill (4,1.7) circle (2pt);
+  \draw[dotted] (4,0) -- (4,1.7);
+  \node[below] at (4,0) {$\lambda^\star$ (good bias/variance)};
+\end{tikzpicture}
+
+\vspace{0.6em}
+\small Regularization controls complexity $\Rightarrow$ better generalization.
+\end{frame}
+
+% =========================================================
+\section{Sparsity as a target}
+
+\begin{frame}{What is sparsity?}
+\begin{itemize}
+  \item A model is \textbf{sparse} if many parameters are \textbf{exactly zero}.
+  \item In linear models: $y \approx X\bbeta$, sparsity means only a few features are used.
+  \item Benefits:
+  \begin{itemize}
+    \item interpretability (feature selection),
+    \item lower cost (measure fewer features),
+    \item deployment (faster + simpler models).
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Sparsity illustration}
+\centering
+\begin{tikzpicture}[>=Latex]
+  \node[draw, rounded corners, inner sep=6pt] (v) {$\bbeta = \begin{bmatrix}
+  2.3\\ 0\\ 0\\ -1.1\\ 0\\ 0\\ 0.7\\ 0
+  \end{bmatrix}$};
+
+  \node[below=0.9cm of v, align=center] (t) {\textbf{Sparse:} only 3 non-zeros\\(feature selection)};
+  \draw[->] (v) -- (t);
+\end{tikzpicture}
+\end{frame}
