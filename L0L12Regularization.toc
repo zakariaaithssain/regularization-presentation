@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Motivation: Why regularize?}{3}{0}{1}
+\beamer@sectionintoc {2}{Sparsity as a target}{5}{0}{2}
+\beamer@sectionintoc {3}{L0 regularization}{7}{0}{3}
+\beamer@sectionintoc {4}{L1/2 regularization}{11}{0}{4}
+\beamer@sectionintoc {5}{Comparison and takeaways}{14}{0}{5}
