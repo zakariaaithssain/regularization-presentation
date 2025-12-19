@@ -1,5 +1,0 @@
-\beamer@sectionintoc {1}{Motivation -- Why regularize ?}{3}{0}{1}
-\beamer@sectionintoc {2}{Objective -- Why we aim for sparse models ?}{7}{0}{2}
-\beamer@sectionintoc {3}{L0 regularization}{10}{0}{3}
-\beamer@sectionintoc {4}{L1/2 regularization}{15}{0}{4}
-\beamer@sectionintoc {5}{Comparison and takeaways}{23}{0}{5}
