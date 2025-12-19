@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1766135742.28081 "/home/zeco/projects/regularization/conclusion.tex" "conclusion.pdf" "conclusion" 1766135742.63048 2
+  "/etc/texmf/web2c/texmf.cnf" 1765983357.08152 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/zeco/projects/regularization/conclusion.tex" 1766135741.3174 4782 b2949af484804585f09b71a879ea26f9 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1765987669 77930 dad7a7a153c57be8d26b82384a2548e8 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1765983394 1928200 fdab4c6c5ca3dec1c299a2deb034b9f1 ""
+  "conclusion.aux" 1766135742.2774 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "conclusion.tex" 1766135741.3174 4782 b2949af484804585f09b71a879ea26f9 ""
+  (generated)
+  "conclusion.aux"
+  "conclusion.log"
+  "conclusion.pdf"
+  (rewritten before read)

@@ -1,0 +1,3731 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.17)  19 DEC 2025 10:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/zeco/projects/regularization/conclusion.tex
+(/home/zeco/projects/regularization/conclusion.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+/home/zeco/projects/regularization/conclusion.tex:2: Undefined control sequence.
+l.2 \section
+            {Comparison and takeaways}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/zeco/projects/regularization/conclusion.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{C
+              omparison and takeaways}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[]
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:4: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{frame}{Comparison: L0 vs L1/2 vs L1}
+                                               
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 1 in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:5: Undefined control sequence.
+l.5 \small
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/zeco/projects/regularization/conclusion.tex:6: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{tabularx}
+                    {\textwidth}{lXXX}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/zeco/projects/regularization/conclusion.tex:6: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.6 \begin{tabularx}{\textwidth}
+                                {lXXX}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:6: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.6 \begin{tabularx}{\textwidth}
+                                {lXXX}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no X in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:7: Undefined control sequence.
+l.7 \toprule
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:8: Misplaced alignment tab character &.
+l.8  &
+       \textbf{L0} & \textbf{L1/2} & \textbf{L1 (Lasso)} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:8: Misplaced alignment tab character &.
+l.8  & \textbf{L0} &
+                     \textbf{L1/2} & \textbf{L1 (Lasso)} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:8: Misplaced alignment tab character &.
+l.8  & \textbf{L0} & \textbf{L1/2} &
+                                     \textbf{L1 (Lasso)} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:9: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.9 \midrule
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:10: Misplaced alignment tab character &.
+l.10 \textbf{Norm} &
+                     $\|\theta\|_0 = |\{i:\theta_i \neq 0\}|$ & $\|\theta\|_...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+/home/zeco/projects/regularization/conclusion.tex:10: Misplaced alignment tab character &.
+l.10 ...$\|\theta\|_0 = |\{i:\theta_i \neq 0\}|$ &
+                                                   $\|\theta\|_{1/2} = \sum_...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:10: Misplaced alignment tab character &.
+l.10 ...theta\|_{1/2} = \sum_i |\theta_i|^{1/2}$ &
+                                                   $\|\theta\|_1 = \sum_i |\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:11: Misplaced alignment tab character &.
+l.11 \textbf{Sparsity} &
+                         Very high (exact) & High (aggressive) & Medium/High...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no V in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:11: Misplaced alignment tab character &.
+l.11 \textbf{Sparsity} & Very high (exact) &
+                                             High (aggressive) & Medium/High...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no H in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:11: Misplaced alignment tab character &.
+l.11 ... & Very high (exact) & High (aggressive) &
+                                                   Medium/High \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:12: Misplaced alignment tab character &.
+l.12 \textbf{Convex?} &
+                        No (discrete) & No ($p<1$) & Yes \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:12: Misplaced alignment tab character &.
+l.12 \textbf{Convex?} & No (discrete) &
+                                        No ($p<1$) & Yes \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:12: Misplaced alignment tab character &.
+l.12 ...bf{Convex?} & No (discrete) & No ($p<1$) &
+                                                   Yes \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no Y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:13: Misplaced alignment tab character &.
+l.13 \textbf{Optimization} &
+                             NP-hard (combinatorial) & Non-convex (ITA, MM) ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:13: Misplaced alignment tab character &.
+l.13 ...{Optimization} & NP-hard (combinatorial) &
+                                                   Non-convex (ITA, MM) & Co...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:13: Misplaced alignment tab character &.
+l.13 ...d (combinatorial) & Non-convex (ITA, MM) &
+                                                   Convex (proximal) \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:14: Misplaced alignment tab character &.
+l.14 \textbf{Bias} &
+                     None (if found) & Low on large $\theta$ & Linear with $...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ) in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:14: Misplaced alignment tab character &.
+l.14 \textbf{Bias} & None (if found) &
+                                       Low on large $\theta$ & Linear with $...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:14: Misplaced alignment tab character &.
+l.14 ... None (if found) & Low on large $\theta$ &
+                                                   Linear with $|\theta|$ \\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:15: Misplaced alignment tab character &.
+l.15 \textbf{Stability} &
+                          Very unstable & Sensitive to init. & Stable \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no V in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:15: Misplaced alignment tab character &.
+l.15 \textbf{Stability} & Very unstable &
+                                          Sensitive to init. & Stable \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:15: Misplaced alignment tab character &.
+l.15 ...ty} & Very unstable & Sensitive to init. &
+                                                   Stable \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:16: Misplaced alignment tab character &.
+l.16 \textbf{Complexity} &
+                           $O(2^p)$ exact & $O(n \cdot iter)$ & $O(n \cdot i...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:16: Misplaced alignment tab character &.
+l.16 \textbf{Complexity} & $O(2^p)$ exact &
+                                            $O(n \cdot iter)$ & $O(n \cdot i...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:16: Misplaced alignment tab character &.
+l.16 ...ty} & $O(2^p)$ exact & $O(n \cdot iter)$ &
+                                                   $O(n \cdot iter)$ \\[0.3em]
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/zeco/projects/regularization/conclusion.tex:17: Misplaced alignment tab character &.
+l.17 \textbf{Use-case} &
+                         Strict subset & Strong sparsity needs & General bas...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:17: Misplaced alignment tab character &.
+l.17 \textbf{Use-case} & Strict subset &
+                                         Strong sparsity needs & General bas...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:17: Misplaced alignment tab character &.
+l.17 ... & Strict subset & Strong sparsity needs &
+                                                   General baseline \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:18: Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.18 \bottomrule
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/zeco/projects/regularization/conclusion.tex:19: LaTeX Error: \begin{frame} on input line 4 ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--21
+[][]
+ []
+
+
+Overfull \hbox (12.6666pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 L0
+ []
+
+
+Overfull \hbox (24.16653pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 L1/2
+ []
+
+
+Overfull \hbox (12.6666pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 L1
+ []
+
+
+Overfull \hbox (36.27336pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 (Lasso) 
+ []
+
+
+Overfull \hbox (29.0693pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Norm
+ []
+
+
+Overfull \hbox (30.0139pt too wide) in paragraph at lines 4--21
+\OMS/cmsy/m/n/10 k\OML/cmm/m/it/10 ^^R\OMS/cmsy/m/n/10 k[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (16.77843pt too wide) in paragraph at lines 4--21
+\OMS/cmsy/m/n/10 jf\OML/cmm/m/it/10 i \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (18.57924pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 ^^R[] \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 gj$
+ []
+
+
+Overfull \hbox (38.09726pt too wide) in paragraph at lines 4--21
+\OMS/cmsy/m/n/10 k\OML/cmm/m/it/10 ^^R\OMS/cmsy/m/n/10 k[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (41.70029pt too wide) in paragraph at lines 4--21
+[][] \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ^^R[]\OMS/cmsy/m/n/10 j[]$
+ []
+
+
+Overfull \hbox (30.0139pt too wide) in paragraph at lines 4--21
+\OMS/cmsy/m/n/10 k\OML/cmm/m/it/10 ^^R\OMS/cmsy/m/n/10 k[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (29.1308pt too wide) in paragraph at lines 4--21
+[][] \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ^^R[]\OMS/cmsy/m/n/10 j$ 
+ []
+
+
+Overfull \hbox (26.93735pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Spar-
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 sity
+ []
+
+
+Overfull \hbox (24.27765pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Con-
+ []
+
+
+Overfull \hbox (22.52072pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 vex?
+ []
+
+
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 p <
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 1$
+ []
+
+
+Overfull \hbox (18.86101pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Op-
+ []
+
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 ti-
+ []
+
+
+Overfull \hbox (27.31233pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 miza-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (21.50124pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Bias
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 ^^R$
+ []
+
+
+Overfull \hbox (10.5278pt too wide) in paragraph at lines 4--21
+\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ^^R\OMS/cmsy/m/n/10 j$ 
+ []
+
+
+Overfull \hbox (20.28459pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Sta-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 bil-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 ity
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Com-
+ []
+
+
+Overfull \hbox (24.75682pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 plex-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 ity
+ []
+
+
+Overfull \hbox (25.30571pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (2[])$
+ []
+
+
+Overfull \hbox (20.57458pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^^A
+ []
+
+
+Overfull \hbox (20.39078pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 iter\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (20.57458pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^^A
+ []
+
+
+Overfull \hbox (20.39078pt too wide) in paragraph at lines 4--21
+\OML/cmm/m/it/10 iter\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (22.48737pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 Use-
+ []
+
+
+Overfull \hbox (20.5082pt too wide) in paragraph at lines 4--21
+\OT1/cmr/bx/n/10 case
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:22: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{frame}{When to use what?}
+                                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ? in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:23: LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \begin{columns}
+                    [T,onlytextwidth]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:24: LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24   \begin{column}
+                     {0.32\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:24: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.24   \begin{column}{0.32\textwidth}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:24: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.24   \begin{column}{0.32\textwidth}
+                                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/home/zeco/projects/regularization/conclusion.tex:25: LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25     \begin{block}
+                      {Use L1 (Lasso)}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--26
+[][]
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:27: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27         \item ✓
+                       Convex + reliable
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:28: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28         \item ✓
+                       Fast solvers (LARS, proximal)
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:29: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29         \item ✓
+                       Theory well-established
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:30: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30         \item ✓
+                       Good baseline
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 31--32
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 32--33
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:34: LaTeX Error: \begin{frame} on input line 22 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34     \end{block}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:35: LaTeX Error: \begin{frame} on input line 22 ended by \end{column}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35   \end{column}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:37: LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37   \begin{column}
+                     {0.32\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:37: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.37   \begin{column}{0.32\textwidth}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:37: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.37   \begin{column}{0.32\textwidth}
+                                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/home/zeco/projects/regularization/conclusion.tex:38: LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38     \begin{block}
+                      {Use L1/2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--39
+[]
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:40: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40         \item ✓
+                       Stronger sparsity than L1
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:41: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41         \item ✓
+                       Less biased estimates
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:42: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42         \item ✓
+                       Better signal recovery
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 43--44
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 44--45
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 45--46
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:47: LaTeX Error: \begin{frame} on input line 22 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47     \end{block}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:48: LaTeX Error: \begin{frame} on input line 22 ended by \end{column}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48   \end{column}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:50: LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50   \begin{column}
+                     {0.30\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:50: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.50   \begin{column}{0.30\textwidth}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:50: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.50   \begin{column}{0.30\textwidth}
+                                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/home/zeco/projects/regularization/conclusion.tex:51: LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51     \begin{block}
+                      {Use L0}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--52
+[]
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:53: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53         \item ✓
+                       Optimal subset selection
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:54: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54         \item ✓
+                       Maximal interpretability
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+
+/home/zeco/projects/regularization/conclusion.tex:55: LaTeX Error: Unicode character ✓ (U+2713)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55         \item ✓
+                       Unbiased
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 56--57
+\OMS/cmsy/m/n/10 ^^B$ 
+ []
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 57--58
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 57--58
+\OML/cmm/m/it/10 p$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 57--58
+\OML/cmm/m/it/10 <$ 
+ []
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 58--60
+\OMS/cmsy/m/n/10 ^^B$
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:61: LaTeX Error: \begin{frame} on input line 22 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61     \end{block}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:62: LaTeX Error: \begin{frame} on input line 22 ended by \end{column}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62   \end{column}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:63: LaTeX Error: \begin{frame} on input line 22 ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{columns}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/zeco/projects/regularization/conclusion.tex:67: Undefined control sequence.
+<recently read> \footnotesize 
+                              
+l.67 ... switch to L1/2 if you need more sparsity}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.34415pt too wide) in paragraph at lines 67--69
+[]\OT1/cmr/m/it/10 Practical
+ []
+
+
+Overfull \hbox (14.56657pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 tip:
+ []
+
+
+Overfull \hbox (21.59428pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 Start
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (14.4499pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 L1,
+ []
+
+
+Overfull \hbox (26.83316pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 switch
+ []
+
+
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 to
+ []
+
+
+Overfull \hbox (21.60542pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 L1/2
+ []
+
+
+Overfull \hbox (6.1333pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 if
+ []
+
+
+Overfull \hbox (15.33324pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 you
+ []
+
+
+Overfull \hbox (18.91095pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 need
+ []
+
+
+Overfull \hbox (21.59428pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 more
+ []
+
+
+Overfull \hbox (21.59428pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 spar-
+ []
+
+
+Overfull \hbox (15.33322pt too wide) in paragraph at lines 67--69
+\OT1/cmr/m/it/10 sity
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:70: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \begin{frame}{Conclusion}
+                              
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 70--71
+[][] 
+ []
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (15.86102pt too wide) in paragraph at lines 72--74
+\OT1/cmr/bx/n/10 L0:
+ []
+
+
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 72--74
+\OML/cmm/m/it/10 p$
+ []
+
+
+Overfull \hbox (19.04987pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 Best
+ []
+
+
+Overfull \hbox (15.46101pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 for:
+ []
+
+
+Overfull \hbox (15.84431pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 fea-
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 ture
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 se-
+ []
+
+
+Overfull \hbox (14.82208pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 lec-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 72--74
+\OML/cmm/m/it/10 p <
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/n/10 40$ 
+ []
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (27.36096pt too wide) in paragraph at lines 75--77
+\OT1/cmr/bx/n/10 L1/2:
+ []
+
+
+Overfull \hbox (19.04987pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 Best
+ []
+
+
+Overfull \hbox (15.46101pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 for:
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (30.7942pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 pressed
+ []
+
+
+Overfull \hbox (21.97763pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 sens-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 ing,
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 med-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (11.75546pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 cal
+ []
+
+
+Overfull \hbox (24.53317pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 imag-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 ing,
+ []
+
+
+Overfull \hbox (15.33322pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 sig-
+ []
+
+
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 nal
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 con-
+ []
+
+
+Overfull \hbox (25.17203pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 struc-
+ []
+
+
+Overfull \hbox (17.88925pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/it/10 tion 
+ []
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (12.6666pt too wide) in paragraph at lines 78--80
+\OT1/cmr/bx/n/10 L1
+ []
+
+
+Overfull \hbox (39.46779pt too wide) in paragraph at lines 78--80
+\OT1/cmr/bx/n/10 (Lasso):
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/n/10 |
+ []
+
+
+Overfull \hbox (19.04987pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 Best
+ []
+
+
+Overfull \hbox (15.46101pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 for:
+ []
+
+
+Overfull \hbox (20.69987pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 most
+ []
+
+
+Overfull \hbox (19.03871pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 real-
+ []
+
+
+Overfull \hbox (23.63875pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 world
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 ap-
+ []
+
+
+Overfull \hbox (14.31102pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 pli-
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (24.27763pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 tions,
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 pro-
+ []
+
+
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 duc-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (16.611pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 sys-
+ []
+
+
+Overfull \hbox (21.00957pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/it/10 tems 
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:88: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88   \begin
+             {itemize}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/home/zeco/projects/regularization/conclusion.tex:88: Missing \endcsname inserted.
+<to be read again> 
+                   \vrule 
+l.88   \begin
+             {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+/home/zeco/projects/regularization/conclusion.tex:88: Missing \endcsname inserted.
+<to be read again> 
+                   \vrule 
+l.88   \begin
+             {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+/home/zeco/projects/regularization/conclusion.tex:88: Missing \endcsname inserted.
+<to be read again> 
+                   \vrule 
+l.88   \begin
+             {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+/home/zeco/projects/regularization/conclusion.tex:88: LaTeX Error: Environment \vrule  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88   \begin
+             {itemize}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:88: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.88   \begin
+             {itemize}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:88: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.88   \begin
+             {itemize}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:88: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.88   \begin
+             {itemize}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/zeco/projects/regularization/conclusion.tex:88: You can't use `\hrule' here except with leaders.
+\frame  ... #1\vrule \@width \@wholewidth }\hrule 
+                                                  \@height \@wholewidth \vsk...
+l.88   \begin
+             {itemize}
+To put a horizontal rule in an hbox or an alignment,
+you should use \leaders or \hrulefill (see The TeXbook).
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:88: Missing number, treated as zero.
+<to be read again> 
+                   \vskip 
+l.88   \begin
+             {itemize}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:88: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \vskip 
+l.88   \begin
+             {itemize}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/zeco/projects/regularization/conclusion.tex:88: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.88   \begin
+             {itemize}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/home/zeco/projects/regularization/conclusion.tex:88: Missing } inserted.
+<inserted text> 
+                }
+l.88   \begin
+             {itemize}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (19.60002pt too wide) in paragraph at lines 88--89
+[][] 
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89   \item \textbf
+                    {Key insight:} As $p$ decreases from 1 to 0, sparsity in...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.35406pt too wide) in paragraph at lines 89--90
+\OT1/cmr/bx/n/10 Key
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 89--90
+\OT1/cmr/bx/n/10 in-
+ []
+
+
+Overfull \hbox (27.2165pt too wide) in paragraph at lines 89--90
+\OT1/cmr/bx/n/10 sight:
+ []
+
+
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 89--90
+\OML/cmm/m/it/10 p$
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:91: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91   \item A
+              lways balance the \textbf{trade-off triangle}:
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (30.2915pt too wide) in paragraph at lines 91--92
+\OT1/cmr/bx/n/10 trade-
+ []
+
+
+Overfull \hbox (12.45827pt too wide) in paragraph at lines 91--92
+\OT1/cmr/bx/n/10 off
+ []
+
+
+Overfull \hbox (16.23604pt too wide) in paragraph at lines 91--92
+\OT1/cmr/bx/n/10 tri-
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 91--92
+\OT1/cmr/bx/n/10 an-
+ []
+
+
+Overfull \hbox (14.21521pt too wide) in paragraph at lines 91--92
+\OT1/cmr/bx/n/10 gle 
+ []
+
+
+/home/zeco/projects/regularization/conclusion.tex:92: LaTeX Error: \begin{frame} on input line 87 ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 \end{itemize}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:96: LaTeX Error: Environment tikzpicture undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \begin{tikzpicture}
+                        [scale=0.9]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no ] in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:97: Undefined control sequence.
+l.97   \coordinate
+                   (A) at (0,0);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:98: Undefined control sequence.
+l.98   \coordinate
+                   (B) at (4,0);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:99: Undefined control sequence.
+l.99   \coordinate
+                   (C) at (2,3);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:100: Undefined control sequence.
+l.100   \draw
+             [thick,blue] (A) -- (B) -- (C) -- cycle;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ; in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:101: Undefined control sequence.
+l.101   \node
+             [below left,font=\small\bfseries] at (A) {Compute Cost};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:101: Undefined control sequence.
+l.101   \node[below left,font=\small
+                                    \bfseries] at (A) {Compute Cost};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:102: Undefined control sequence.
+l.102   \node
+             [below right,font=\small\bfseries] at (B) {Accuracy};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:102: Undefined control sequence.
+l.102   \node[below right,font=\small
+                                     \bfseries] at (B) {Accuracy};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:103: Undefined control sequence.
+l.103   \node
+             [above,font=\small\bfseries] at (C) {Sparsity};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:103: Undefined control sequence.
+l.103   \node[above,font=\small
+                               \bfseries] at (C) {Sparsity};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 ] 
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 at 
+ []
+
+
+Overfull \hbox (17.6388pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 (A) 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 Com- 
+ []
+
+
+Overfull \hbox (22.52072pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 pute 
+ []
+
+
+Overfull \hbox (26.25818pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 Cost; 
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 [be- 
+ []
+
+
+Overfull \hbox (16.93047pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 low 
+ []
+
+
+Overfull \hbox (59.36081pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 right,font=] 
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 at 
+ []
+
+
+Overfull \hbox (17.12491pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 (B) 
+ []
+
+
+Overfull \hbox (17.6388pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 Ac- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 cu- 
+ []
+
+
+Overfull \hbox (24.70125pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 racy; 
+ []
+
+
+Overfull \hbox (67.08296pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 [above,font=] 
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 at 
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 (C) 
+ []
+
+
+Overfull \hbox (26.93735pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 Spar- 
+ []
+
+
+Overfull \hbox (21.1471pt too wide) in paragraph at lines 96--104
+ \OT1/cmr/bx/n/10 sity; 
+ []
+
+
+
+
+/home/zeco/projects/regularization/conclusion.tex:104: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+/home/zeco/projects/regularization/conclusion.tex:106: Undefined control sequence.
+l.106   \node
+             [circle,fill=red,inner sep=2pt,label=below:{\tiny L1}] at (1.5,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:106: Undefined control sequence.
+l.106 ...fill=red,inner sep=2pt,label=below:{\tiny
+                                                   L1}] at (1.5,0.5) {};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:107: Undefined control sequence.
+l.107   \node
+             [circle,fill=orange,inner sep=2pt,label=right:{\tiny L1/2}] at ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:107: Undefined control sequence.
+l.107 ...l=orange,inner sep=2pt,label=right:{\tiny
+                                                   L1/2}] at (2,1.5) {};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:108: Undefined control sequence.
+l.108   \node
+             [circle,fill=purple,inner sep=2pt,label=above:{\tiny L0}] at (2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/zeco/projects/regularization/conclusion.tex:108: Undefined control sequence.
+l.108 ...l=purple,inner sep=2pt,label=above:{\tiny
+                                                   L0}] at (2,2.5) {};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/zeco/projects/regularization/conclusion.tex:109: LaTeX Error: \begin{document} ended by \end{tikzpicture}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \end{tikzpicture}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/zeco/projects/regularization/conclusion.tex:110: LaTeX Error: \begin{document} ended by \end{frame}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/zeco/projects/regularization/conclusion.tex:110: Extra \endgroup.
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.110 \end{frame}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+
+Overfull \hbox (100.29814pt too wide) in paragraph at lines 106--113
+ []\OT1/cmr/bx/n/10 [circle,fill=red,inner 
+ []
+
+
+Overfull \hbox (125.8132pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 sep=2pt,label=below:L1] 
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 at 
+ []
+
+
+Overfull \hbox (41.52756pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 (1.5,0.5) 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 ; 
+ []
+
+
+Overfull \hbox (20.06935pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 [cir- 
+ []
+
+
+Overfull \hbox (101.15227pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 cle,fill=orange,inner 
+ []
+
+
+Overfull \hbox (132.62567pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 sep=2pt,label=right:L1/2] 
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 at 
+ []
+
+
+Overfull \hbox (32.58316pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 (2,1.5) 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 ; 
+ []
+
+
+Overfull \hbox (20.06935pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 [cir- 
+ []
+
+
+Overfull \hbox (100.03424pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 cle,fill=purple,inner 
+ []
+
+
+Overfull \hbox (125.65346pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 sep=2pt,label=above:L0] 
+ []
+
+
+Overfull \hbox (10.06242pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 at 
+ []
+
+
+Overfull \hbox (32.58316pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 (2,2.5) 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 106--113
+ \OT1/cmr/bx/n/10 ; 
+ []
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+/home/zeco/projects/regularization/conclusion.tex:115: Undefined control sequence.
+l.115 \small
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (28.63873pt too wide) in paragraph at lines 114--117
+ \OT1/cmr/bx/n/10 Foun- 
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 114--117
+ \OT1/cmr/bx/n/10 da- 
+ []
+
+
+Overfull \hbox (28.5901pt too wide) in paragraph at lines 114--117
+ \OT1/cmr/bx/n/10 tional 
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 114--117
+ \OT1/cmr/bx/n/10 pa- 
+ []
+
+
+Overfull \hbox (24.44571pt too wide) in paragraph at lines 114--117
+ \OT1/cmr/bx/n/10 pers: 
+ []
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (14.96098pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 Re-
+ []
+
+
+Overfull \hbox (20.57204pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 gres-
+ []
+
+
+Overfull \hbox (17.8888pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 sion
+ []
+
+
+Overfull \hbox (30.28313pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 shrink-
+ []
+
+
+Overfull \hbox (14.311pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 age
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 se-
+ []
+
+
+Overfull \hbox (14.82208pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 lec-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 via
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (20.95544pt too wide) in paragraph at lines 118--119
+\OT1/cmr/m/it/10 lasso 
+ []
+
+Missing character: There is no X in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (19.37506pt too wide) in paragraph at lines 119--120
+\OML/cmm/m/it/10 L[]$
+ []
+
+
+Overfull \hbox (15.97205pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 reg-
+ []
+
+
+Overfull \hbox (8.94438pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 u-
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 lar-
+ []
+
+
+Overfull \hbox (15.84435pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 iza-
+ []
+
+
+Overfull \hbox (20.18877pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 tion:
+ []
+
+
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 A
+ []
+
+
+Overfull \hbox (29.51643pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 thresh-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 old-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 rep-
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (17.88876pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 sen-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 ta-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (16.61098pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 the-
+ []
+
+
+Overfull \hbox (14.18323pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/it/10 ory
+ []
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (19.04987pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 Best
+ []
+
+
+Overfull \hbox (17.63321pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 sub-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 set
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 se-
+ []
+
+
+Overfull \hbox (14.82208pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 lec-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 via
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (21.46652pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 mod-
+ []
+
+
+Overfull \hbox (14.43878pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 ern
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 op-
+ []
+
+
+Overfull \hbox (9.96658pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 ti-
+ []
+
+
+Overfull \hbox (24.02208pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 miza-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/it/10 lens
+ []
+
+
+Overfull \hbox (30.60538pt too wide) in paragraph at lines 123--124
+ []\OT1/cmr/bx/n/10 Books 
+ []
+
+
+Overfull \hbox (8.9444pt too wide) in paragraph at lines 123--124
+ \OT1/cmr/bx/n/10 & 
+ []
+
+
+Overfull \hbox (19.49434pt too wide) in paragraph at lines 123--124
+ \OT1/cmr/bx/n/10 sur- 
+ []
+
+
+Overfull \hbox (24.8207pt too wide) in paragraph at lines 123--124
+ \OT1/cmr/bx/n/10 veys: 
+ []
+
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (17.63321pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 Sta-
+ []
+
+
+Overfull \hbox (14.05545pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 tis-
+ []
+
+
+Overfull \hbox (9.96658pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 ti-
+ []
+
+
+Overfull \hbox (11.75546pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 cal
+ []
+
+
+Overfull \hbox (28.37753pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 Learn-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (23.12761pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 Spar-
+ []
+
+
+Overfull \hbox (16.21794pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/it/10 sity 
+ []
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 A
+ []
+
+
+Overfull \hbox (34.77753pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 Wavelet
+ []
+
+
+Overfull \hbox (21.08319pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 Tour
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 Sig-
+ []
+
+
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 nal
+ []
+
+
+Overfull \hbox (19.17763pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 Pro-
+ []
+
+
+Overfull \hbox (20.44427pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 cess-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (46.58308pt too wide) in paragraph at lines 129--130
+ []\OT1/cmr/bx/n/10 Software: 
+ []
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 131--132
+\OT1/cmtt/m/n/10 scikit-learn
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 131--132
+\OT1/cmtt/m/n/10 L0Learn
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 131--132
+\OT1/cmtt/m/n/10 CVXPY
+ []
+
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+)
+! Emergency stop.
+<*> ...zeco/projects/regularization/conclusion.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 56 strings out of 475178
+ 1140 string characters out of 5766538
+ 400848 words of memory out of 5000000
+ 23145 multiletter control sequences out of 15000+600000
+ 559659 words of font info for 39 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,5n,24p,244b,144s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
