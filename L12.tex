@@ -1,5 +1,8 @@
 \section{L1/2 regularization}
 
+% =========================================================
+% Frame 1 — Definition
+% =========================================================
 \begin{frame}{L1/2 regularization: definition}
 L1/2 is an $L_p$ penalty with $p=\tfrac{1}{2}$ (non-convex):
 \[
@@ -8,29 +11,168 @@ L1/2 is an $L_p$ penalty with $p=\tfrac{1}{2}$ (non-convex):
 
 \textbf{Penalized objective:}
 \[
-\min_{\bbeta \in \R^p} \; \mathcal{L}(\bbeta) + \lambda \sum_{j=1}^p |\beta_j|^{1/2}.
+\min_{\bbeta \in \R^p} \; \mathcal{L}(\bbeta)
+\;+\;
+\lambda \sum_{j=1}^p |\beta_j|^{1/2}.
 \]
 
 \vspace{0.4em}
-\small Note: this is \textbf{not} Elastic Net (which is a mix of L1 and L2).
+\small
+Note: this is \textbf{not} Elastic Net (which mixes L1 and L2).
 \end{frame}
 
+% =========================================================
+% Frame 2 — Why sparsity is stronger than L1
+% =========================================================
 \begin{frame}{Why L1/2 can be more sparse than L1}
 \begin{itemize}
   \item For $p<1$, the penalty is \textbf{more aggressive near zero} than L1:
   \begin{itemize}
-    \item small coefficients are pushed to exactly 0 more strongly,
+    \item small coefficients are pushed to exactly $0$ more strongly,
     \item often yields \textbf{stronger sparsity} than L1.
   \end{itemize}
-  \item Intuition often cited: \textbf{less shrinkage bias} on large coefficients than L1 (depends on solver/settings).
-  \item Trade-off: \textbf{non-convex} objective $\Rightarrow$ optimization is harder.
+  \item Often cited: \textbf{less shrinkage bias} on large coefficients than L1
+  (problem and solver dependent).
+  \item Trade-off: \textbf{non-convex} objective $\Rightarrow$ harder optimization.
 \end{itemize}
 \end{frame}
 
-\begin{frame}{Optimization intuition (high-level)}
-Typical solver families (no heavy math needed):
+% =========================================================
+% Frame 3 — Penalty shape visualization (distinct styles)
+% =========================================================
+\begin{frame}{Visual intuition: penalty shape (TikZ)}
+\centering
+\begin{tikzpicture}[x=2.35cm,y=1.35cm,>=Latex]
+
+  % ---- Styles (B/W distinct) ----
+  \tikzset{
+    Lone/.style={very thick, solid},
+    Lhalf/.style={thick, dashed},
+    Ltwo/.style={thick, dotted},
+    Lzero/.style={thick, dash dot},
+  }
+
+  % ---- Axes ----
+  \draw[->] (0,0) -- (3.35,0) node[below right] {$t$};
+  \draw[->] (0,0) -- (0,2.75) node[above left] {penalty};
+
+  % ---- Ticks ----
+  \foreach \x in {1,2,3}
+    \draw (\x,0) -- (\x,-0.06) node[below] {\small \x};
+  \foreach \y in {1,2}
+    \draw (0,\y) -- (-0.06,\y) node[left] {\small \y};
+
+  % ---- Curves (scaled to fit) ----
+  % L1: y = 0.75 t
+  \draw[Lone] plot[smooth,domain=0:3.2,samples=180]
+    (\x, {0.75*\x});
+
+  % L1/2: y = 1.2 sqrt(t)
+  \draw[Lhalf] plot[smooth,domain=0:3.2,samples=180]
+    (\x, {1.2*sqrt(\x)});
+
+  % L2 (scaled): y = 0.17 t^2
+  \draw[Ltwo] plot[smooth,domain=0:3.2,samples=180]
+    (\x, {0.17*(\x*\x)});
+
+  % L0 step (indicator-like)
+  \draw[Lzero] (0,0) -- (0.25,0) -- (0.25,1.0) -- (3.2,1.0);
+
+  % ---- Legend (styled samples) ----
+  \begin{scope}[shift={(0.35,2.25)}]
+    \draw[rounded corners, fill=white, draw=black] (0,0) rectangle (2.05,1.15);
+
+    \draw[Lone]  (0.15,0.90) -- (0.65,0.90);
+    \node[anchor=west] at (0.80,0.90) {\small $\ell_1:~t$};
+
+    \draw[Lhalf] (0.15,0.65) -- (0.65,0.65);
+    \node[anchor=west] at (0.80,0.65) {\small $\ell_{1/2}:~\sqrt{t}$};
+
+    \draw[Ltwo]  (0.15,0.40) -- (0.65,0.40);
+    \node[anchor=west] at (0.80,0.40) {\small $\ell_2$ (scaled)};
+
+    \draw[Lzero] (0.15,0.15) -- (0.65,0.15);
+    \node[anchor=west] at (0.80,0.15) {\small $\ell_0$ (step)};
+  \end{scope}
+
+  % ---- Domain note ----
+  \node[below] at (2.85,-0.35) {\small $t \ge 0$ (magnitude)};
+\end{tikzpicture}
+
+\vspace{0.25em}
+\small
+\alert{Message:}
+$\sqrt{t}$ is \textbf{steep near $0$} (kills small coefficients)
+and \textbf{concave} (closer to L0 than L1).
+\end{frame}
+
+% =========================================================
+% Frame 4 — Steep near zero (simple, no plot needed)
+% =========================================================
+\begin{frame}{Why ``steeper near zero'' matters}
+For $t>0$:
+\[
+\frac{d}{dt}\sqrt{t} = \frac{1}{2\sqrt{t}}
+\quad \Rightarrow \quad
+\text{very large when } t \to 0^+.
+\]
+
 \begin{itemize}
-  \item \textbf{Iterative reweighting:} solve a sequence of easier weighted problems that approximate L1/2.
+  \item Near zero, the penalty gradient is very large.
+  \item Small coefficients experience a strong push toward $0$.
+  \item This explains stronger sparsity compared to L1.
+\end{itemize}
+\end{frame}
+
+% =========================================================
+% Frame 5 — Geometry intuition: constraint sets (TikZ)
+% =========================================================
+\begin{frame}{Geometry intuition: why L1/2 promotes sparsity}
+\small
+Many penalized problems can be seen as constrained ones:
+\[
+\min_{\bbeta}\ \mathcal{L}(\bbeta) + \lambda P(\bbeta)
+\quad \Longleftrightarrow \quad
+\min_{\bbeta}\ \mathcal{L}(\bbeta)\ \text{s.t.}\ P(\bbeta)\le c.
+\]
+\alert{Sparsity intuition:} sharper corners $\Rightarrow$ optimum more likely on an axis ($\beta_j=0$).
+
+\centering
+\begin{tikzpicture}[>=Latex, scale=0.95]
+  % axes
+  \draw[->] (-2.2,0) -- (2.2,0) node[below] {$\beta_1$};
+  \draw[->] (0,-2.2) -- (0,2.2) node[left] {$\beta_2$};
+
+  % L2 ball
+  \draw[thick] (0,0) circle (1.45);
+  \node at (1.55,1.60) {\small $L_2$};
+
+  % L1 ball
+  \draw[thick] (0,1.75) -- (1.75,0) -- (0,-1.75) -- (-1.75,0) -- cycle;
+  \node at (1.90,0.25) {\small $L_1$};
+
+  % L1/2 "star-like" nonconvex ball (visual approximation)
+  \def\K{1.45}
+  \draw[thick]
+    plot[smooth cycle, samples=240, domain=0:360]
+      ({\K*cos(\x)/((abs(cos(\x))+abs(sin(\x)))^2)},
+       {\K*sin(\x)/((abs(cos(\x))+abs(sin(\x)))^2)});
+  \node at (-1.80,1.45) {\small $L_{1/2}$};
+
+  % highlight sparsity axes
+  \draw[dashed] (-2.0,0) -- (2.0,0);
+  \draw[dashed] (0,-2.0) -- (0,2.0);
+  \node[align=center] at (0,-2.55) {\scriptsize axes correspond to sparsity\\[-2pt]\scriptsize ($\beta_1=0$ or $\beta_2=0$)};
+\end{tikzpicture}
+\end{frame}
+
+% =========================================================
+% Frame 6 — Optimization intuition
+% =========================================================
+\begin{frame}{Optimization intuition (high-level)}
+Typical solver families:
+\begin{itemize}
+  \item \textbf{Iterative reweighting:} approximate L1/2 by a sequence of weighted L1 problems.
   \item \textbf{Thresholding / proximal-style updates:} non-linear shrinkage rules.
 \end{itemize}
 
@@ -39,4 +181,46 @@ Practical notes:
   \item initialization matters,
   \item possible local minima (non-convex).
 \end{itemize}
+\end{frame}
+
+% =========================================================
+% Frame 7 — Reweighting method
+% =========================================================
+\begin{frame}{Iterative reweighting idea}
+Approximate the non-convex penalty by a weighted L1 penalty:
+\[
+\sum_{j=1}^p |\beta_j|^{1/2}
+\;\approx\;
+\sum_{j=1}^p w_j |\beta_j|,
+\qquad
+w_j = \frac{1}{2\sqrt{|\beta_j|+\varepsilon}}.
+\]
+
+\begin{itemize}
+  \item Small $|\beta_j| \Rightarrow$ large $w_j$.
+  \item Large $w_j$ penalizes that coefficient more $\Rightarrow$ it tends to vanish.
+\end{itemize}
+
+\alert{Result:} iteratively solving weighted L1 problems approximates L1/2.
+\end{frame}
+
+% =========================================================
+% Frame 8 — Summary
+% =========================================================
+\begin{frame}{Pros / cons summary}
+\textbf{Advantages}
+\begin{itemize}
+  \item Very strong sparsity (closer to L0 than L1).
+  \item Potentially less bias on large coefficients than L1.
+\end{itemize}
+
+\textbf{Limitations}
+\begin{itemize}
+  \item Non-convex $\Rightarrow$ harder optimization; local minima possible.
+  \item Sensitive to initialization and solver choice.
+\end{itemize}
+
+\vspace{0.3em}
+\alert{One-line takeaway:}
+L1/2 is a compromise — much sparser than L1, but not as combinatorial as L0.
 \end{frame}
